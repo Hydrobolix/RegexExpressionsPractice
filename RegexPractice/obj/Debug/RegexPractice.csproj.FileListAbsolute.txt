@@ -1,0 +1,6 @@
+C:\Users\Hydrobolix\source\repos\RegexPractice\bin\Debug\RegexPractice.exe.config
+C:\Users\Hydrobolix\source\repos\RegexPractice\bin\Debug\RegexPractice.exe
+C:\Users\Hydrobolix\source\repos\RegexPractice\bin\Debug\RegexPractice.pdb
+C:\Users\Hydrobolix\source\repos\RegexPractice\obj\Debug\RegexPractice.csprojAssemblyReference.cache
+C:\Users\Hydrobolix\source\repos\RegexPractice\obj\Debug\RegexPractice.exe
+C:\Users\Hydrobolix\source\repos\RegexPractice\obj\Debug\RegexPractice.pdb
